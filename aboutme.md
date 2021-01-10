@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Hello, I'm Soo!
 ---
 
 안녕하세요! 데이터 분석가를 꿈꾸는 Soo 입니다.  
